@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://scamlocator.com" # the base hostname & protocol for your site
 twitter_username: ScamLocator
 github_username:  ScamLocator
+youtube_username: https://youtube.com/scamlocator
 
 # Build settings
 markdown: kramdown
